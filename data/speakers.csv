@@ -1,0 +1,4 @@
+speaker_id,name,baseline_pitch,baseline_energy,baseline_speech_rate,baseline_pause_ratio
+S001,Amina Noor,148,0.42,126,0.19
+S002,Jonas Berg,118,0.36,108,0.25
+S003,Maya Chen,176,0.48,142,0.16
